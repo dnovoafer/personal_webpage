@@ -6,34 +6,34 @@ title: David Novoa
 superuser: true
 
 # Role/position/tagline
-role: Armadanzas
+role: Ikerbasque Research Fellow & Visiting Professor
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Stanford University
+- name: Ikerbasque / University of the Basque Country
   url: https://www.stanford.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include nonlinear photonics, ultrafast laser science and exotic light-matter interactions in novel micro- and nano-structured waveguides. I am a passionate traveller, reader, musician and sportsman.
 
 # Interests to show in About widget
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Nonlinear photonics
+- Fibre optics
+- Ultrafast laser science
 
 # Education to show in About widget
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
+  - course: PhD in Physics
+    institution: University of Vigo
+    year: 2011
+  - course: MsC in Photonics and Laser Technologies
+    institution: Universities of Santiago de Compostela, A Coruña and Vigo (Spain)
     year: 2008
+  - course: BSc in Phyiscs
+    institution: University of Vigo (Spain)
+    year: 2006
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -70,8 +70,8 @@ email: ""
 highlight_name: false
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am an Ikerbasque Research Fellow and visiting professor at the University of the Basque Country (EHU/UPV). My main research interests are focused in the development of novel light sources and sensors based on micro/nano-structured fibre technology.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+This is yet to be properly filled up! But I am back in business! Ohh sure I am! And will now crash it! You´ll see!
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
