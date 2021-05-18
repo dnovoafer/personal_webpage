@@ -33,7 +33,7 @@ publication_short: ""
 abstract: We report generation of ultrashort near-UV pulses by soliton self-compression in kagome-style hollow-core photonic crystal fibers filled with ambient air. 
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: A new regime of ultrafast UV self-compression in air is reported! 
 
 tags: []
 

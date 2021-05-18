@@ -11,10 +11,7 @@ role: Ikerbasque Research Fellow & Visiting Professor
 # Organizations/Affiliations to show in About widget
 organizations:
 - name: Ikerbasque / University of the Basque Country
-  url: https://www.stanford.edu/
-
-# Short bio (displayed in user profile at end of posts)
-bio: My research interests include nonlinear photonics, ultrafast laser science and exotic light-matter interactions in novel micro- and nano-structured waveguides. I am a passionate traveller, reader, musician and sportsman.
+  url: https://www.ehu.eus/
 
 # Interests to show in About widget
 interests:
@@ -42,36 +39,34 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '/#contact'
+  link: mailto:david.novoa@ehu.eus
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/GeorgeCushen
-- icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
-  icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-- icon: github
-  icon_pack: fab
-  link: https://github.com/gcushen
-- icon: linkedin
-  icon_pack: fab
-  link: https://www.linkedin.com/
+- icon: google-scholar  # Alternatively, use `google-scholar` icon from `ai` icon pack
+  icon_pack: ai
+  link: https://scholar.google.com/citations?user=gXyFHkgAAAAJ&hl=es&oi=ao
+#- icon: download
+#  icon_pack: fas
+#  link: assets/media/CV_Novoa_May2021.pdf
+#- icon: linkedin
+#  icon_pack: fab
+#  link: https://www.linkedin.com/
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
 # and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: media/resume.pdf
+#- icon: download
+#   icon_pack: fas
+#   link: static/media/CV_Novoa_May2021.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
 
 # Highlight the author in author lists? (true/false)
-highlight_name: false
+highlight_name: true
 ---
 
-I am an Ikerbasque Research Fellow and visiting professor at the University of the Basque Country (EHU/UPV). My main research interests are focused in the development of novel light sources and sensors based on micro/nano-structured fibre technology.
+I am an Ikerbasque Research Fellow and visiting professor at the University of the Basque Country (EHU/UPV). My main research interests are focused on the science and applications of micro- and nano-structured optical fibres.  
+I am a passionate traveler, musician, sportsman and reader. Partner of a wonderful person and proud father of a wonderful little girl.
 
-This is yet to be properly filled up! But I am back in business! Ohh sure I am! And will now crash it! You´ll see!
-
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
