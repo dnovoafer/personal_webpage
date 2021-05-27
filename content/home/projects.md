@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 65
 
-title: Projects
+title: Research Projects
 subtitle: ''
 
 content:
@@ -25,12 +25,16 @@ content:
   # To filter by a specific tag, set `tag` to an existing tag name.
   # To remove the toolbar, delete the entire `filter_button` block.
   filter_button:
+
   - name: All
     tag: '*'
-  - name: Deep Learning
-    tag: Deep Learning
-  - name: Other
-    tag: Demo
+  - name: Exotic light sources
+    tag: Sources 
+  - name: Multimode nonlinear & quantum optics 
+    tag: Multimode
+  - name: Smart Photonics
+    tag: AI
+
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
@@ -41,8 +45,8 @@ design:
   #   2 = Compact
   #   3 = Card
   #   5 = Showcase
-  view: 2
+  view: 3
 
   # For Showcase view, flip alternate rows?
-  flip_alt_rows: false
+  flip_alt_rows: true
 ---

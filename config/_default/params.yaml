@@ -20,7 +20,7 @@ twitter: ''
 
 # Contact (edit or remove options as required)
 
-email: david.novoa@ehu.eus
+email: ''
 phone: +34 94 601 41 14
 address: 
   street: Escuela de Ingeniería, Plaza Torres Quevedo 1
@@ -98,7 +98,7 @@ show_related:
 reading_time: true
 section_pager: false
 docs_section_pager: true
-sharing: true
+sharing: false #This disables de small social-network sharing icons appearing in publications and projects
 copyright_license:
   enable: false
   allow_derivatives: false

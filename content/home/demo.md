@@ -52,9 +52,9 @@ subtitle = "**Dr. David Novoa**"
 
 ##  Here you will find up-to-date information about my [research](#projects) and [publications](#publications)
 
-I hope you will enjoy your visit! If you want to know more or would like to stay  
-in touch, just [drop me a line](/#contact)
+I hope you will enjoy your visit! If you want to know more or would like to stay in touch, just [drop me a line](/#contact)
 
+<p>&nbsp;</p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>

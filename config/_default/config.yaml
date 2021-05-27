@@ -5,7 +5,7 @@
 
 title: EFO-Lab # Website name
 baseurl: '' # Website URL
-copyright: '' # Footer text, e.g. '© {year} Me'
+copyright: 'David Novoa' # Footer text, e.g. '© {year} Me'
 
 ############################
 ## LANGUAGE

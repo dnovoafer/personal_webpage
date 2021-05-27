@@ -18,6 +18,8 @@ interests:
 - Nonlinear photonics
 - Fibre optics
 - Ultrafast laser science
+- Extreme light-matter interaction
+- Machine learning
 
 # Education to show in About widget
 education:
@@ -28,7 +30,7 @@ education:
   - course: MsC in Photonics and Laser Technologies
     institution: Universities of Santiago de Compostela, A Coruña and Vigo (Spain)
     year: 2008
-  - course: BSc in Phyiscs
+  - course: BSc in Physics
     institution: University of Vigo (Spain)
     year: 2006
 
@@ -67,6 +69,6 @@ email: ""
 highlight_name: true
 ---
 
-I am an Ikerbasque Research Fellow and visiting professor at the University of the Basque Country (EHU/UPV). My main research interests are focused on the science and applications of micro- and nano-structured optical fibres.  
-I am a passionate traveler, musician, sportsman and reader. Partner of a wonderful person and proud father of a wonderful little girl.
+I am an Ikerbasque Research Fellow and Visiting Professor at the University of the Basque Country (EHU/UPV). My main research interests are focused on the science and applications of intense light-matter interaction in confined geometries, in particular in micro- and nano-structured optical fibres.  
+Outside of the scientific world, I am a passionate traveler, musician, sportsman and reader. Partner of a wonderful person and proud father of a wonderful little girl.
 
