@@ -42,9 +42,9 @@ social:
 - icon: envelope
   icon_pack: fas
   link: mailto:david.novoa@ehu.eus
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+#- icon: twitter
+#  icon_pack: fab
+#  link: https://twitter.com/GeorgeCushen
 - icon: google-scholar  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: ai
   link: https://scholar.google.com/citations?user=gXyFHkgAAAAJ&hl=es&oi=ao
