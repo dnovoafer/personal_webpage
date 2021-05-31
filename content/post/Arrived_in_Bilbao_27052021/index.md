@@ -1,6 +1,6 @@
 ---
 title: Arrived in Bilbao! A new adventure is about to start
-subtitle: Welcome 👋 We are just fresh arrived to Bilbao from Erlangen. I spent 8 amazing years in Germany, but now it is time for a change and here we are to enjoy it all.
+subtitle: Welcome 👋 We are just arrived in Bilbao from Erlangen. I spent 8 amazing years in Germany, but now it is time for a change and here we are to enjoy it all!
 
 # Summary for listings and search engines
 summary: Welcome 👋 We are just fresh arrived to Bilbao from Erlangen. I spent 8 amazing years in Germany, but now it is time for a change and here we are to enjoy it all.
@@ -23,7 +23,7 @@ featured: false
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/CpkOjOcXdUY)'
+  caption: 'Guggenheim Museum on a cloudy day. Image credit: David Novoa'
   focal_point: ""
   placement: 2
   preview_only: false
