@@ -70,5 +70,5 @@ highlight_name: true
 ---
 
 I am an Ikerbasque Research Fellow and Visiting Professor at the University of the Basque Country (EHU/UPV) in Spain. My main research interests are focused on the science and applications of intense light-matter interaction in confined geometries, in particular in micro- and nano-structured optical fibres.  
-Outside of the scientific world, I am a passionate traveler, musician, sportsman and reader. Partner of a wonderful person and proud father of a wonderful little girl.
+Outside the scientific world, I am a passionate traveler, musician, sportsman and reader. Partner of a wonderful person and proud father of a wonderful little girl.
 
