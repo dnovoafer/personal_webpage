@@ -38,6 +38,6 @@ categories:
 - Research
 ---
 
-I am pleased to share that I have been invited by the subcommitte *Fiber-optic and waveguide devices and sensors* of the ["OFC 2022 conference"](https://www.ofcconference.org/en-us/home/) to deliver a talk on our recent work on generation and control of extremely broadband light using hollow anti-resonant fibres. It certainly is a honour to contribute to the world´s largest and most celebrated conference on fibre optics and communications.
+I am pleased to share that I have been invited by the subcommittee *Fiber-optic and waveguide devices and sensors* of the ["OFC 2022 conference"](https://www.ofcconference.org/en-us/home/) to deliver a talk on our recent work on generation and control of extremely broadband light using hollow anti-resonant fibres. It certainly is a honour to contribute to the world´s largest and most celebrated conference on fibre optics and communications.
 
 I cannot wait to visit San Diego (US) next year, as this would also imply that we are finally seeing the light at the end of this 'pandemic' tunnel. Let´s keep it up! 🙌
