@@ -9,10 +9,10 @@ summary: I have been selected as panelist of the OSA´s outreach magazine *Spotl
 projects: []
 
 # Date published
-date: "2020-06-28T00:00:00Z"
+date: "2021-06-28T00:00:00Z"
 
 # Date updated
-lastmod: "2020-06-28T00:00:00Z"
+lastmod: "2021-06-28T00:00:00Z"
 
 # Is this an unpublished draft?
 draft: false
