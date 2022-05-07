@@ -1,10 +1,10 @@
 ---
-title: Talk at CLEO Europe 2021
+title: Invited talk at CLEO USA 2022
 
-event: Conference on Lasers and Electro-Optics (CLEO/Europe)
-event_url: https://www.cleoeurope.org
+event: Conference on Lasers and Electro-Optics (CLEO/USA)
+event_url: https://www.cleoconference.org
 
-location: Munich (Germany)
+location: San Jose (USA)
 address:
   street: ""
   city: ""
@@ -12,26 +12,26 @@ address:
   postcode: ''
   country:
 
-summary: Our work on efficient Raman conversion of quantum biphotons will be virtually presented at CLEO in Munich
-abstract: "Raman coherence waves created in hydrogen-filled single-ring hollow-core PCF are used to efficiently frequency up-shift the idler photon from a biphoton pair. Quantum correlations are preserved between the signal photon and the up-shifted idler photon."
+summary: We were invited to present our recent results on the development of a seven-octave high-brightness and CEP-stable light source 
+abstract: "We present a carrier-envelope-phase stable light source, seeded by a mid-IR frequency comb, with simultaneous spectral coverage across 7 optical octaves, from the UV (340 nm) into the THz (40,000 nm)"
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2021-06-24T11:30:00Z"
+date: "2022-05-20T14:15:00Z"
 date_end: #"2030-06-01T15:00:00Z"
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2018-01-01T00:00:00Z"
 
-authors: [Rinat Tyumenev, Jonas Hammer, Nicolas Y. Joly, admin, Philip St.J. Russell]
+authors: [Ugaitz Elu, Luke Maidment, Lenard Vamos, Francesco Tani, admin, Michael Frosz, Valeriy Badikov, Dmitrii Badikov, Valentin Petrov, Philip Russell, Jens Biegert]
 tags: []
 
 # Is this a featured talk? (true/false)
 featured: false
 
 image:
-  caption: 'Dispersion diagram'
+  caption: 'Simulated output mode profile of the mid-infrared pump'
   focal_point: Right
 
 #links:

@@ -1,10 +1,10 @@
 ---
-title: Talk at CLEO Europe 2021
+title: Invited talk at OFC 2022
 
-event: Conference on Lasers and Electro-Optics (CLEO/Europe)
-event_url: https://www.cleoeurope.org
+event: Optical Fiber Communications (OFC)
+event_url: https://www.ofcconference.org
 
-location: Munich (Germany)
+location: San Diego (USA)
 address:
   street: ""
   city: ""
@@ -12,26 +12,26 @@ address:
   postcode: ''
   country:
 
-summary: Our work on efficient Raman conversion of quantum biphotons will be virtually presented at CLEO in Munich
-abstract: "Raman coherence waves created in hydrogen-filled single-ring hollow-core PCF are used to efficiently frequency up-shift the idler photon from a biphoton pair. Quantum correlations are preserved between the signal photon and the up-shifted idler photon."
+summary: I delivered an invited talk on harnessing multi-octave coherent light using hollow anti-resonant fibres.
+abstract: "Gas-filled anti-resonant fibers enable an ultrafast source of phase-stable waveforms with tunable ultra-broadband spectrum spanning from the ultraviolet to the terahertz. The system features higher brightness than synchrotrons, opening horizons in spectroscopy and strong-field physics."
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2021-06-24T11:30:00Z"
+date: "2022-03-08T17:00:00Z"
 date_end: #"2030-06-01T15:00:00Z"
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2018-01-01T00:00:00Z"
 
-authors: [Rinat Tyumenev, Jonas Hammer, Nicolas Y. Joly, admin, Philip St.J. Russell]
+authors: [admin]
 tags: []
 
 # Is this a featured talk? (true/false)
 featured: false
 
 image:
-  caption: 'Dispersion diagram'
+  caption: 'Soliton self-compression inside a gas-filled anti-resonant fibre'
   focal_point: Right
 
 #links:
