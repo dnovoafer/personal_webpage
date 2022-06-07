@@ -40,6 +40,6 @@ categories:
 
 ## Photons stay correlated despite huge jump in frequency
 
-My colleagues Philip Russell and Nicolas Joly at MPL in Erlangen were interviewed in ["Physics World"](https://physicsworld.com/a/photons-stay-entangled-despite-huge-jump-in-frequency/) about our recent publication in Science. Even the amazing Alexei Sokolov, a pioneer in the field of quantum molecular modulation, gave his opinion  our work. Let´s keep going! 🙌
+My colleagues Philip Russell and Nicolas Joly at MPL in Erlangen were interviewed in ["Physics World"](https://physicsworld.com/a/photons-stay-entangled-despite-huge-jump-in-frequency/) about our recent publication in Science. Even the amazing Alexei Sokolov, a pioneer in the field of quantum molecular modulation, gave his opinion about our work. Let´s keep going! 🙌
 
 - More information about the paper [here!](/publication/2022_quantumsrs_tyumenev_science/)
